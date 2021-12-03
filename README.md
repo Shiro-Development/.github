@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiro-development&label=Profile%20views&color=0e75b6&style=flat" alt="shiro-development" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiro-development" alt="shiro-development" /></a> </p>
-
 - You can find our website [here](https://shiro.dbot.dev)
 
 - You can join our community [here](https://discord.gg/5YA7fJWZPh)
